@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ngizeh
 - 👀 I’m Fullstack Dev
-- 🌱 I’m currently TDD in Phoenix
+- 🌱 I’m currently on TDD in Phoenix
 - 💞️ I’m open to any project you might need to be done.
 - 📫 You can me reach @edngize@gmail.com
 
